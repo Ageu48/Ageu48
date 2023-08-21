@@ -36,8 +36,7 @@ Oque estou estou estudando agora?
 - Ciência de dados
 - Inglês
 
-Se você também é apaixonado por tecnologia e evolução constante, adoraria me conectar e discutir sobre meus contatos estão logo a baixo ;)!
-
+Se você também é apaixonado por tecnologia e evolução constante, adoraria me conectar!
 
 #### Contatos:
 
