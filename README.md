@@ -7,7 +7,7 @@
 ### Sobre
 Olá, bem vindo ao meu perfil, meu nome é Ageu. 
 
-Atualmente trabalho com suporte de TI para soluções de gestão e contabilidade da Thomson Reuters porem estou em busca continua de conhecimentos teóricos na área do desenvolvimento BACK END afim de obter uma oportunidade de migração de carreira. Tive meu primeiro contato com a área do desenvolvimento em 2018, onde fui surpreendido positivamente pela área na faculdade e comecei a trilhar meu caminho adquirindo conhecimentos sólidos na área de desenvolvimento.
+Atualmente trabalho com suporte de TI para soluções de gestão e contabilidade da Thomson Reuters porem estou em busca continua de conhecimentos teóricos na área do desenvolvimento BACK END afim de obter uma oportunidade de migração de carreira. Tive meu primeiro contato com a área do desenvolvimento em 2019, onde fui surpreendido positivamente pela área na faculdade e comecei a trilhar meu caminho adquirindo conhecimentos sólidos na área de desenvolvimento.
 
 Durante a minha jornada, meu primeiro contato foi com as linguagens (HTML5 | CSS3 | JavaScript | PHP), logo em seguida, tive minha primeira experiência freelance onde pude utilizar estas tecnologias, realizei a criação de formulários personalizados e paginas de login com HTML5 & CSS3, com JavaScript realizei validações nos campos, conexão com APIs para recebimento de e-mails e implementei mascaras para CPF, CNPJ, TELEFONE, etc... Utilizei brevemente o PHP para a realizar consultas em um banco de dados MySql e cadastrar novos dados caso o usuário não existisse.
 
