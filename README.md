@@ -5,15 +5,38 @@
 ## Meu Perfil
 
 ### Sobre
-Olá, bem vindo ao meu perfil, meu nome é Ageu. 
+👋 Olá, seja bem-vindo ao meu perfil! Eu sou Ageu, e estou animado para compartilhar um pouco da minha jornada na área de tecnologia.
 
-Atualmente trabalho com suporte de TI para soluções de gestão e contabilidade da Thomson Reuters porem estou em busca continua de conhecimentos teóricos na área do desenvolvimento BACK END afim de obter uma oportunidade de migração de carreira. Tive meu primeiro contato com a área do desenvolvimento em 2019, onde fui surpreendido positivamente pela área na faculdade e comecei a trilhar meu caminho adquirindo conhecimentos sólidos na área de desenvolvimento.
+🔧 Experiência:
+Suporte de TI para soluções de gestão e contabilidade na Thomson Reuters, onde aprimorei minhas habilidades em resolução de problemas e atendimento ao cliente.
 
-Durante a minha jornada, meu primeiro contato foi com as linguagens (HTML5 | CSS3 | JavaScript | PHP), logo em seguida, tive minha primeira experiência freelance onde pude utilizar estas tecnologias, realizei a criação de formulários personalizados e paginas de login com HTML5 & CSS3, com JavaScript realizei validações nos campos, conexão com APIs para recebimento de e-mails e implementei mascaras para CPF, CNPJ, TELEFONE, etc... Utilizei brevemente o PHP para a realizar consultas em um banco de dados MySql e cadastrar novos dados caso o usuário não existisse.
+🌱 Explorando Novos Horizontes:
+Atualmente, estou em uma busca constante por conhecimento teórico e prático na área de desenvolvimento BACK-END e DADOS. Minha paixão por evolução e aprendizado me impulsiona a buscar oportunidades de migração de carreira para o Desenvolvimento e ETL.
 
-Com está experiência inicial na área do desenvolvimento e conhecimentos teóricos adquiridos durante minha graduação em engenharia da computação e cursos extracurricular, a stack que mais me atraiu foi o BACK END, isso direcionou meu foco em adquirir certificações e conhecimento nas linguagens e tecnologias equivalentes a esta stack (Python | Pandas | SQL | PostgreSQL | Linux | AWS).
+🚀 Minha Jornada:
+Minha jornada no mundo da programação começou em 2019, quando fui cativado pela área durante meus estudos na faculdade. Desde então, tenho construído uma base sólida em desenvolvimento por meio de cursos extracurriculares e estudos autônomos.
 
-As tecnologias e framework que estou estudando ou tenho projeção em desenvolver é (Django | C# | .NET | Docker | Cobit | Scrum | ETL), acredito que são ótimas tecnologias a se ter conhecimento para se tornar um profissional de destaque na área, estou ansioso para adquirir estas certificações.
+💻 Habilidades:
+Minhas habilidades incluem HTML5, CSS3, JavaScript e PHP. Através de projetos freelance, criei formulários personalizados, páginas de login e implementei validações e conexões com APIs para melhorar a experiência do usuário.
+
+🔍 Explorando o Backend:
+No decorrer do meu aprendizado, me concentrei no desenvolvimento BACK-END e ETL. Estudei tecnologias como Python, Pandas, SQL, PostgreSQL, Linux e AWS. Estou entusiasmado para expandir meu conhecimento em Ciência de Dados.
+
+📚 Busca Pela Excelência:
+Busco constantemente conhecimento para me destacar na área de desenvolvimento!
+Acredito que dominar essas tecnologias é essencial para alcançar meu sucesso profissional.
+
+Oque estou estou estudando agora?
+
+- Docker
+- Terraform
+- Serviços Cloud
+- Scrum
+- Jira
+- Ciência de dados
+- Inglês
+
+Se você também é apaixonado por tecnologia e evolução constante, adoraria me conectar e discutir sobre meus contatos estão logo a baixo ;)!
 
 
 #### Contatos:
