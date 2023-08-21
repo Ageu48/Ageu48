@@ -49,7 +49,8 @@ Se você também é apaixonado por tecnologia e evolução constante, adoraria m
 
 ### Próximas Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" /><img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" width="40" height="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" /><img src="![image](https://github.com/Ageu48/Ageu48/assets/70117788/adc1f6e8-bfb6-4448-85a9-a9d1f1d3b3f4)
+" width="40" height="40"/><img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" width="40" height="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="40" height="40"/>
           
           
 [![Ageu Franco github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ageu48&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
